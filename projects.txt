@@ -1,0 +1,20 @@
+Violence Detection in Videos using 3D CNN | Python, TensorFlow, OpenCV
+• Developed a deep learning pipeline using 3D Convolutional Neural Networks to classify violent and non-violent
+content in videos.
+• Preprocessed the RLVS and Hockey Fight datasets by extracting and batching video frames, optimizing input
+for training.
+• Separated frame extraction from model training and fine-tuned hyperparameters (dropout, learning rate) to
+enhance accuracy and reduce overfitting.
+Location Reminder – Android Application | Flutter, Firebase, Google Maps API
+• Built a location-based reminder app that notifies users when they enter a predefined radius of a selected
+location.
+• Integrated Google Maps API for accurate geolocation and geofencing, enabling real-time position tracking and
+reminder triggering.
+• Designed an intuitive Flutter UI for setting location-reminder pairs and used Firebase for backend and
+real-time data sync.
+Automated News Aggregator using Web Scraping | Python, Feedparser, PostgreSQL
+• Developed a web scraper to extract and aggregate live content from RSS and Atom feeds using Feedparser.
+• Parsed headlines, summaries, and publication dates from multiple news sources and stored structured data in
+PostgreSQL.
+• Automated the scraping process using Task Scheduler to ensure up-to-date aggregation with minimal manual
+intervention.
